@@ -10,10 +10,6 @@ The Summer Challenge is an annual real-time programming tournament organized by 
 
 I started coding not long ago, and this was my **first experience with AI, bots, and real-time challenges**. Every line of code was a learning moment. I entered with little knowledge but a huge desire to learn — and the progress was amazing.
 
-🚀 **Final result: 737th place worldwide!**  
-🎉 A huge achievement for me.
-
-
 ## 🧠 Project Overview
 
 The bot coordinates agents in roles such as:
@@ -74,8 +70,8 @@ For each game tick:
 
 ---
 
-## 🏁 Competition Result
+🚀 **Final result: 737th place worldwide!**  
+🎉 A huge achievement for me.
 
-Finished **737th place** overall.
 
 
