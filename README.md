@@ -70,8 +70,9 @@ For each game tick:
 
 ---
 
-🚀 **Final result: 737th place worldwide!**  
-🎉 A huge achievement for me.
+🚀 **Final result: 737th!**  
+
+---
 
 
 
