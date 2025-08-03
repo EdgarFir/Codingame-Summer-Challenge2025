@@ -1,9 +1,3 @@
-# Tactical Agents AI Bot
-
-This project implements an AI system to control multiple agents on a 2D grid-based tactical game. Each agent has a specific role and dynamically makes decisions based on game state, enemy presence, and terrain conditions.
-
----
-
 # CodinGame Summer Challenge 2025 🌞
 
 This project showcases my participation in the **CodinGame Summer Challenge 2025** — my very first AI and algorithm competition!
