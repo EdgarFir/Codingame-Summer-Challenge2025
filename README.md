@@ -32,8 +32,8 @@ The game map is a 2D matrix where each tile is represented by:
 - `2`: High cover (reduces 75% damage)
 
 Also added:
-- '3': Ally
-- '-1': Enemy
+- `3`: Ally
+- `-1`: Enemy
 
 ---
 
