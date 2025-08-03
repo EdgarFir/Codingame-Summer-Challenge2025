@@ -4,6 +4,22 @@ This project implements an AI system to control multiple agents on a 2D grid-bas
 
 ---
 
+# CodinGame Summer Challenge 2025 🌞
+
+This project showcases my participation in the **CodinGame Summer Challenge 2025** — my very first AI and algorithm competition!
+
+## 🧠 About the Challenge
+
+The Summer Challenge is an annual real-time programming tournament organized by [CodinGame](https://www.codingame.com/). In 2025, the proposed game challenged participants to build an autonomous bot to compete against thousands of others in a dynamic and competitive environment. Each match brought new strategies, requiring tactical adaptation, optimization, and real-time decision-making.
+
+## 🧗 My Journey
+
+I started coding not long ago, and this was my **first experience with AI, bots, and real-time challenges**. Every line of code was a learning moment. I entered with little knowledge but a huge desire to learn — and the progress was amazing.
+
+🚀 **Final result: 737th place worldwide!**  
+🎉 A huge achievement for me.
+
+
 ## 🧠 Project Overview
 
 The bot coordinates agents in roles such as:
