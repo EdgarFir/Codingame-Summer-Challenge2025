@@ -2,10 +2,6 @@
 
 This project implements an AI system to control multiple agents on a 2D grid-based tactical game. Each agent has a specific role and dynamically makes decisions based on game state, enemy presence, and terrain conditions.
 
-## 🏁 Competition Result
-
-Finished **737th place** overall.
-
 ---
 
 ## 🧠 Project Overview
@@ -67,3 +63,9 @@ For each game tick:
 4. Issue commands accordingly
 
 ---
+
+## 🏁 Competition Result
+
+Finished **737th place** overall.
+
+
